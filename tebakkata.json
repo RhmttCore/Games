@@ -1506,6 +1506,26 @@
   },
   {
     "index": 301,
+    "soal": "Mulus, Halus, Lembut",
+    "jawaban": "SUTRA"
+  },
+  {
+    "index": 302,
+    "soal": "Ringan, Hitam, Mudah patah",
+    "jawaban": "ARANG"
+  },
+  {
+    "index": 303,
+    "soal": "Listrik, Berputar, Baling-baling",
+    "jawaban": "KIPAS"
+  },
+  {
+    "index": 304,
+    "soal": "Berpergian, Beroda, Penyimpanan",
+    "jawaban": "KOPER"
+  },
+  {
+    "index": 305,
     "soal": "Buah, Kulit, Duri",
     "jawaban": "DURIAN"
   }
