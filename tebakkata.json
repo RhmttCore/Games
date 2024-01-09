@@ -1526,6 +1526,31 @@
   },
   {
     "index": 305,
+    "soal": "Buku, Sekolah, Punggung",
+    "jawaban": "RANSEL"
+  },
+  {
+    "index": 306,
+    "soal": "Tipis, Menulis, Halaman",
+    "jawaban": "Buku"
+  },
+  {
+    "index": 307,
+    "soal": "Layar, Listrik, Hiburan",
+    "jawaban": "Televisi"
+  },
+  {
+    "index": 308,
+    "soal": "Alas, Tali, ",
+    "jawaban": ""
+  },
+  {
+    "index": 309,
+    "soal": "",
+    "jawaban": ""
+  },
+  {
+    "index": 3,
     "soal": "Buah, Kulit, Duri",
     "jawaban": "DURIAN"
   }
