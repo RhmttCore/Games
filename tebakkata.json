@@ -1532,25 +1532,25 @@
   {
     "index": 306,
     "soal": "Tipis, Menulis, Halaman",
-    "jawaban": "Buku"
+    "jawaban": "BUKU"
   },
   {
     "index": 307,
     "soal": "Layar, Listrik, Hiburan",
-    "jawaban": "Televisi"
+    "jawaban": "TELEVISI"
   },
   {
     "index": 308,
-    "soal": "Alas, Tali, ",
-    "jawaban": ""
+    "soal": "Alas, Tali, Kaki",
+    "jawaban": "SEPATU"
   },
   {
     "index": 309,
-    "soal": "",
-    "jawaban": ""
+    "soal": "Tingkat, Tinggi, Naik Turun",
+    "jawaban": "TaANGGA"
   },
   {
-    "index": 3,
+    "index": 310,
     "soal": "Buah, Kulit, Duri",
     "jawaban": "DURIAN"
   }
